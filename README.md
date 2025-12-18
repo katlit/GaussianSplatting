@@ -1,12 +1,8 @@
 ## Project Overview
 
-This repository contains experiments and visualizations for a 3D reconstruction
-project based on Gaussian Splatting. In addition to quantitative evaluation,
-we provide animated qualitative comparisons to better illustrate differences
-in Gaussian density, training convergence, and view coverage.
+This repository contains visualizations for a 3D reconstruction
+project based on Gaussian Splatting. 
 
-- 📄 Report: `report/`
-- 📓 Notebooks: `notebooks/`
 - 🎞️ Animated visualizations: `media/gifs/`
 
 ---
